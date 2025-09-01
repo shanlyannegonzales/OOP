@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\OOP\Gonzales_SimpleInheritance\Gonzales_SimpleInheritance\bin\Debug\Gonzales_SimpleInheritance.exe.config
+C:\Users\ACT-STUDENT\Desktop\OOP\Gonzales_SimpleInheritance\Gonzales_SimpleInheritance\bin\Debug\Gonzales_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Desktop\OOP\Gonzales_SimpleInheritance\Gonzales_SimpleInheritance\bin\Debug\Gonzales_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\OOP\Gonzales_SimpleInheritance\Gonzales_SimpleInheritance\obj\Debug\Gonzales_SimpleInheritance.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\OOP\Gonzales_SimpleInheritance\Gonzales_SimpleInheritance\obj\Debug\Gonzales_SimpleInheritance.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\OOP\Gonzales_SimpleInheritance\Gonzales_SimpleInheritance\obj\Debug\Gonzales_SimpleInheritance.exe
+C:\Users\ACT-STUDENT\Desktop\OOP\Gonzales_SimpleInheritance\Gonzales_SimpleInheritance\obj\Debug\Gonzales_SimpleInheritance.pdb
+C:\Users\ACT-STUDENT\Desktop\OOP\Gonzales_SimpleInheritance\Gonzales_SimpleInheritance\obj\Debug\Gonzales_SimpleInheritance.exe.config
