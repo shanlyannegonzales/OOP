@@ -1,0 +1,7 @@
+C:\Users\ACT-STUDENT\Desktop\OOP\Gonzales_InheritanceWithUserInput\Gonzales_InheritanceWithUserInput\bin\Debug\Gonzales_InheritanceWithUserInput.exe.config
+C:\Users\ACT-STUDENT\Desktop\OOP\Gonzales_InheritanceWithUserInput\Gonzales_InheritanceWithUserInput\bin\Debug\Gonzales_InheritanceWithUserInput.exe
+C:\Users\ACT-STUDENT\Desktop\OOP\Gonzales_InheritanceWithUserInput\Gonzales_InheritanceWithUserInput\bin\Debug\Gonzales_InheritanceWithUserInput.pdb
+C:\Users\ACT-STUDENT\Desktop\OOP\Gonzales_InheritanceWithUserInput\Gonzales_InheritanceWithUserInput\obj\Debug\Gonzales_InheritanceWithUserInput.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\OOP\Gonzales_InheritanceWithUserInput\Gonzales_InheritanceWithUserInput\obj\Debug\Gonzales_InheritanceWithUserInput.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\OOP\Gonzales_InheritanceWithUserInput\Gonzales_InheritanceWithUserInput\obj\Debug\Gonzales_InheritanceWithUserInput.exe
+C:\Users\ACT-STUDENT\Desktop\OOP\Gonzales_InheritanceWithUserInput\Gonzales_InheritanceWithUserInput\obj\Debug\Gonzales_InheritanceWithUserInput.pdb
