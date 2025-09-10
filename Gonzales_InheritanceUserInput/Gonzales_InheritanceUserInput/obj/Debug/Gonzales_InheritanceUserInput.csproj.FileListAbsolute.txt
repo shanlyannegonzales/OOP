@@ -1,0 +1,7 @@
+C:\Users\ryzen 5\Desktop\OOP\Gonzales_InheritanceUserInput\Gonzales_InheritanceUserInput\bin\Debug\Gonzales_InheritanceUserInput.exe.config
+C:\Users\ryzen 5\Desktop\OOP\Gonzales_InheritanceUserInput\Gonzales_InheritanceUserInput\bin\Debug\Gonzales_InheritanceUserInput.exe
+C:\Users\ryzen 5\Desktop\OOP\Gonzales_InheritanceUserInput\Gonzales_InheritanceUserInput\bin\Debug\Gonzales_InheritanceUserInput.pdb
+C:\Users\ryzen 5\Desktop\OOP\Gonzales_InheritanceUserInput\Gonzales_InheritanceUserInput\obj\Debug\Gonzales_InheritanceUserInput.csproj.AssemblyReference.cache
+C:\Users\ryzen 5\Desktop\OOP\Gonzales_InheritanceUserInput\Gonzales_InheritanceUserInput\obj\Debug\Gonzales_InheritanceUserInput.csproj.CoreCompileInputs.cache
+C:\Users\ryzen 5\Desktop\OOP\Gonzales_InheritanceUserInput\Gonzales_InheritanceUserInput\obj\Debug\Gonzales_InheritanceUserInput.exe
+C:\Users\ryzen 5\Desktop\OOP\Gonzales_InheritanceUserInput\Gonzales_InheritanceUserInput\obj\Debug\Gonzales_InheritanceUserInput.pdb
